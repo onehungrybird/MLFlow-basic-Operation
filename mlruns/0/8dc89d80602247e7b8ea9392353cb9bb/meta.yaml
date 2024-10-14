@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sahuman/Downloads/mlflow-test/mlruns/0/8dc89d80602247e7b8ea9392353cb9bb/artifacts
+end_time: 1728928567546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8dc89d80602247e7b8ea9392353cb9bb
+run_name: rare-moth-557
+run_uuid: 8dc89d80602247e7b8ea9392353cb9bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728928558576
+status: 3
+tags: []
+user_id: sahuman

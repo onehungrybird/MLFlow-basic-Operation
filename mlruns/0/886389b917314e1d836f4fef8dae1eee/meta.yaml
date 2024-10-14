@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sahuman/Downloads/mlflow-test/mlruns/0/886389b917314e1d836f4fef8dae1eee/artifacts
+end_time: 1728928695768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 886389b917314e1d836f4fef8dae1eee
+run_name: inquisitive-loon-688
+run_uuid: 886389b917314e1d836f4fef8dae1eee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728928689479
+status: 3
+tags: []
+user_id: sahuman

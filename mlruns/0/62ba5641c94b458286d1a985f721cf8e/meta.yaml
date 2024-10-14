@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sahuman/Downloads/mlflow-test/mlruns/0/62ba5641c94b458286d1a985f721cf8e/artifacts
+end_time: 1728928816087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62ba5641c94b458286d1a985f721cf8e
+run_name: bemused-goose-503
+run_uuid: 62ba5641c94b458286d1a985f721cf8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728928809519
+status: 3
+tags: []
+user_id: sahuman
