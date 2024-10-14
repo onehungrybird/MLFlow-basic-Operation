@@ -1,11 +1,7 @@
 # MLFlow-basic-Operation
 
 ```
-import dagshub
-dagshub.init(repo_owner='manishkumarsahu724', repo_name='MLFlow-basic-Operation', mlflow=True)
-
-import mlflow
-with mlflow.start_run():
-  mlflow.log_param('parameter name', 'value')
-  mlflow.log_metric('metric name', 1)
+export MLFLOW_TRACKING_URI=https://dagshub.com/manishkumarsahu724/MLFlow-basic-Operation.mlflow
+export MLFLOW_TRACKING_USERNAME=manishkumarsahu724
+export MLFLOW_TRACKING_PASSWORD=cf573bbb304754bcd7ba929a5fc13f98464129f5
 ```
